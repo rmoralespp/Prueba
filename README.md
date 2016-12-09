@@ -1,2 +1,2 @@
 # Prueba
-Repositorio de prueba
+Este es un Repositorio de prueba
